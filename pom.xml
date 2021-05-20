@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.study.spring-security</groupId>
-	<artifactId>database</artifactId>
+	<artifactId>example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>database</name>
+	<name>example</name>
 	<description>Spring Security with Database</description>
 	<properties>
 		<java.version>11</java.version>

@@ -1,4 +1,4 @@
-# spring-security-database
+# spring-security-example
 
 1. To enable spring-security, just need to user spring-security-starter pack. It will by default add filters so our request get intercepted.
 2. After adding it will ask for login without implementing any page for it. All urls will need to be authenticated.
